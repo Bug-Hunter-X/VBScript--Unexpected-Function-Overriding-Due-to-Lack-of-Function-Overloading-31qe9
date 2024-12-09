@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript programming stemming from the absence of function overloading.  The `bug.vbs` file showcases the problem, while `bugSolution.vbs` provides a workaround using conditional logic to simulate overloading.
